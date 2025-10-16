@@ -1,8 +1,4 @@
-<h1 align="center">🤖 Mid. AI/ML/DL Developer</h1>
-
-###
-
-<p align="center">Hi, I'm Batu. I've been developing software with Python for about 4 years. For the past 2 years, I've been focusing on Artificial Intelligence and Machine Learning, working on projects such as regression, classification, decision trees, computer vision, image classification, and object detection.<br><br>I am also interested in data analysis, SQL, Power BI, n8n automation, Explainable Artificial Intelligence (XAI) techniques.</p>
+<h1 align="center">Software Developerr</h1>
 
 ###
 
