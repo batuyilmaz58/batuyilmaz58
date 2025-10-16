@@ -1,4 +1,4 @@
-<h1 align="center">Software Developerr</h1>
+<h1 align="center">Software Developer</h1>
 
 ###
 
