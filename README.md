@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
