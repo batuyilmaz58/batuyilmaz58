@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Batuhan Yılmaz</h1>
 <h3 align="center">Software Developer</h3>
 
----
 
 ## <div align="center">Contact Me</div>
 
@@ -14,8 +13,6 @@
   </a>
 </p>
 
----
-
 ## <div align="center">Skills</div>
 
 <p align="center">
@@ -24,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
 </p>
 
----
 
 ## <div align="center">Projects</div>
 
@@ -35,7 +31,6 @@
   <a href="https://mediain-ai.com" target="_blank">🔗 Project Website</a>
 </p>
 
----
 
 ## <div align="center">GitHub Stats</div>
 
