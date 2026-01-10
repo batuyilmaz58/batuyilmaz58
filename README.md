@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Batuhan Yılmaz</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">AI Focused Backend Developer | ASP.NET Core & Python | Graphic Designer</h3>
 
 
 ## <div align="center">Contact Me</div>
