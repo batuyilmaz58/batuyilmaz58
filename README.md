@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASP.NET | AI Entegration<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 Actually i always learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ASP.NET | AI <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 Actually i always learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
