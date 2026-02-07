@@ -51,3 +51,13 @@
 
 ###
 
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=batuyilmaz58&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuyilmaz58&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=batuyilmaz58&theme=default" alt="GitHub Streak" />
+
+
+
