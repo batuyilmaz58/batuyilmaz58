@@ -45,23 +45,9 @@ I created a website for my own brand.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-eta-five-59.vercel.app/api?username=batuyilmaz58&show_icons=true&theme=default&v=1)
-
----
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats-eta-five-59.vercel.app/api/top-langs/?username=batuyilmaz58&layout=compact&theme=default&v=1)
-
----
-
-## Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=batuyilmaz58&theme=default&cache_seconds=1800" />
-</p>
 
 ---
 
