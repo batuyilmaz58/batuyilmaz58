@@ -47,9 +47,9 @@ I created a website for my own brand.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=batuyilmaz58&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=batuyilmaz58&show_icons=true&theme=default&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuyilmaz58&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=batuyilmaz58&layout=compact&theme=default&cache_seconds=1800" />
 
 ## Support Me
 
