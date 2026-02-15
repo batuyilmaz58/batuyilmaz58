@@ -45,7 +45,7 @@ I created a website for my own brand.
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eta-five-59.vercel.app/api?username=batuyilmaz58&show_icons=true&theme=default&cache_seconds=1800" />
@@ -75,15 +75,6 @@ I created a website for my own brand.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuyilmaz58&theme=github" />
 </p>
 
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/batuyilmaz58/MediAIn-Beta">
-    <img src="https://github-readme-stats-eta-five-59.vercel.app/api/pin/?username=batuyilmaz58&repo=MediAIn-Beta&theme=default" />
-  </a>
-</p>
 
 
 ## Support Me
