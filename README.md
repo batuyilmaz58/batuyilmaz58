@@ -5,7 +5,7 @@
 # Hello 👋, I'm Batuhan Yılmaz
 ### Software Developer
 
-A Software Developer from Turkey
+A Data Scientist and Backend Developer from Turkey
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/batuy%C4%B1lmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
