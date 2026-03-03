@@ -15,8 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=batuhanyilmaz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=batuhanyilmaz1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanyilmaz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Languages](https://github-readme-stats-eta-five-59.vercel.app/api/top-langs/?username=batuhanyilmaz1&layout=compact&theme=default&v=1)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanyilmaz1&theme=github" />
-</p>
+![](https://github-readme-stats-eta-five-59.vercel.app/api/top-langs/?username=batuhanyilmaz1&layout=compact&theme=default&v=1)
