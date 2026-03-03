@@ -1,42 +1,13 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Batu</h1>
+<h3 align="center">A Data Scientist and Web Developer from Turkey</h3>
 
-# Hello 👋, I'm Batuhan Yılmaz
-### Software Developer
-
-A Data Scientist and Web Developer from Turkey
-
-## Contact Me
-<p><a href="https://www.linkedin.com/in/batuy%C4%B1lmaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
-
-## Skills
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bt" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="bt" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/batuy%c4%b1lmaz/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/batuy%c4%b1lmaz/a" height="30" width="40" /></a>
 </p>
 
-## Projects
-
-### Mediain
-
-Professional Medical AI Models
-
-[View Project](https://github.com/batuyilmaz58/MediAIn-Beta)
-
----
-
-### 3D Aspect
-
-I created a website for my own brand.
-
-[View Project](https://www.3daspectshop.com)
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ## Top Languages
 
@@ -49,14 +20,3 @@ I created a website for my own brand.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=batuyilmaz58&theme=github" />
 </p>
-
-
-
-## Support Me
-
-<a href="https://www.buymeacoffee.com/batuyilmaz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-
-
-
-
-
