@@ -1,4 +1,4 @@
-## Software developer focused on AI and backend systems
+## Software developer & Prompt Engineer focused on AI and backend systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/batuyilmaz1/) 
